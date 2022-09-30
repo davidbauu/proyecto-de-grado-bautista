@@ -1,0 +1,143 @@
+body{
+  background-color: green;
+background-image: url(https://images.pexels.com/photos/66869/green-leaf-natural-wallpaper-royalty-free-66869.jpeg?cs=srgb&dl=pexels-pixabay-66869.jpg&fm=jpg);
+background-repeat: repeat-y;
+background-size: 100%;
+}
+.area1{
+font-family: 'Bebas Neue', cursive;
+background-color: #0186AD;
+width: 21%;
+height: 70px;
+margin-left: -8px;
+margin-top: -8px;
+font-size: 50px;
+}
+.area2{
+  font-family: 'Bebas Neue', cursive;
+  background-color: #0186AD;
+  width: 25%;
+  height: 70px;
+margin-left: 20%;
+margin-top: -70px;
+font-size: 50px;
+}
+.area3{
+  font-family: 'Bebas Neue', cursive;
+  background-color: #0186AD;
+  width: 25%;
+  height: 70px;
+margin-left: 45%;
+margin-top: -70px;
+font-size: 50px;
+}
+.area4{
+  font-family: 'Bebas Neue', cursive;
+  background-color: #0186AD;
+  width: 25%;
+  height: 70px;
+margin-left: 68.5%;
+margin-top: -70px;
+font-size: 50px;
+}
+.area5{
+  font-family: 'Bebas Neue', cursive;
+  background-color: #0186AD;
+  width: 199px;
+  height: 70px;
+margin-left: 84.5%;
+margin-top: -70px;
+font-size: 30px;
+}
+ .titulo{
+  background-color: #4CFF33;
+   margin-left: -1%;
+   margin-top: -5.4%;
+   width: 101.7%;
+   height: 200px;
+   text-align: center;
+    font-family: 'Comfortaa', cursive;
+   font-size: 50px;
+ }
+.titulo:hover{
+  transition: 0.5s;
+  background-color: #00FF1F;
+}
+.mensaje{
+  font-family: 'Bebas Neue', cursive;
+  margin-left: 35%;
+  margin-top: -25%;
+  font-size: 500%;
+}
+.area1:hover{
+  transition: 1s;
+  background-color: #00B9F0;
+}
+.area2:hover{
+  transition: 1s;
+  background-color: #00B9F0;
+}
+.area3:hover{
+  transition: 1s;
+  background-color: #00B9F0;
+}
+.area4:hover{
+  transition: 1s;
+  background-color: #00B9F0;
+}
+.area5:hover{
+  transition: 1s;
+  background-color: #00B9F0;
+
+}
+.que{
+  font-family: 'Comfortaa', cursive;
+  margin-top: 10%;
+  background-color: #1FFF00;
+  margin-left: -8px;
+  width: 101.3%;
+  height: 55px;
+}
+.infor{
+font-family: 'Poppins', sans-serif;
+  margin-top: 3%;
+  width: 40%;
+  font-size: 20px;
+  height: 10%;
+}
+.logo{
+  margin-left: -1%;
+}
+.pregunta{
+  margin-left: 50%;
+  margin-top: -20%;
+}
+
+.como{
+  font-family: 'Comfortaa', cursive;
+  margin-top: 2%;
+
+}
+.texto{
+font-family: 'Poppins', sans-serif;
+font-size: 15px;
+margin-top: 5%;
+}
+.diagrama{
+  
+}
+
+.tiempo{
+  font-family: 'Comfortaa', cursive;
+}
+.explicacion{
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+}
+.formu{
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  width: 1200px;
+  margin-top: 5%;
+  margin-left: 1%;
+}
