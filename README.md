@@ -1,1 +1,1 @@
-# proyecto-de-grado-bautista
+# proyecto-de-grado-palacios
